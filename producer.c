@@ -1,7 +1,6 @@
 /* Joshua Thompson
 *  11/1/2022
-*  Lab 1
-*  Professor */
+*  Producer Consumer Problem */
 
 /* This file acts as the producer in the producer consumer problem.
 *  When the buffer is not full, the producer will "produce" an item in

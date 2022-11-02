@@ -2,7 +2,7 @@
 *  11/1/2022
 *  Producer Consumer Problem */
 
-/* This program contains all functions used in both producer.c and
+/* This file contains all functions used in both producer.c and
 *  consumer.c.  They function as semaphores. */
 
 wait(counter){

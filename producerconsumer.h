@@ -2,7 +2,7 @@
 *  11/1/2022
 *  Producer Consumer Problem */
 
-*/ This file contains all global variables, the buffer, and the structure item in use
+/* This file contains all global variables, the buffer, and the structure item in use
 *  across all project files */
 
 #ifndef PRODUCERCONSUMER_H

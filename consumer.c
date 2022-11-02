@@ -1,7 +1,6 @@
 /* Joshua Thompson
 *  11/1/2022
-*  Producer Consumer Problem
-*  Professor */
+*  Producer Consumer Problem */
 
 /* This program acts as the consumer in the producer consumer problem.
 *  When the buffer is not empty, the consumer will "consume" an item on

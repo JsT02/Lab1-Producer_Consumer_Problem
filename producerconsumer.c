@@ -1,21 +1,20 @@
 /* Joshua Thompson
 *  11/1/2022
-*  Lab 1
-*  Professor */
+*  Producer Consumer Problem */
 
 /* This program contains all functions used in both producer.c and
 *  consumer.c.  They function as semaphores. */
 
 wait(counter){
 
-   while(counter <= 0);
+   while(counter <= 0); // If another process is in crit, force wait
 
-   counter--;
+   counter--; // Process enters crit section
 
 }
 
 signal(counter){
 
-   counter++;
+   counter++; // Process exits crit section
 
 }

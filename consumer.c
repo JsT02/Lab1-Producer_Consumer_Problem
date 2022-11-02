@@ -2,7 +2,7 @@
 *  11/1/2022
 *  Producer Consumer Problem */
 
-/* This program acts as the consumer in the producer consumer problem.
+/* This file acts as the consumer in the producer consumer problem.
 *  When the buffer is not empty, the consumer will "consume" an item on
 *  the buffer.  When the buffer is empty, the consumer is forced to
 *  wait. */

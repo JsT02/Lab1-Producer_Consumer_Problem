@@ -45,7 +45,8 @@ signal() to exit the critical section. The consumer then loops.
 In both processes, successful production and consumption is marked by "Produced" and
 "Consumed" respectively.  Here is an example of what the output should look like:
 
-* Insert screenshot *
+![image](https://user-images.githubusercontent.com/117226386/199388813-75c7ccf5-1cc0-4016-a2d0-542feca1fcbe.png)
+
 
 This is my first project using C, so getting used to C format was troublesome. However,
 since I have been coding in mainly C++, it was not that difficult.  One of my issues
